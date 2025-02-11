@@ -2,6 +2,8 @@
 
 This is the project for Database organisation CS-425-02, built using **FastAPI**, **SQLModel**, and **Alembic**. For now all the crud operations are developed for the project.
 
+![ticketmaster clone demo](./project-image.png "Project Image")
+
 ## Project Setup
 
 Please follow the instructions below to set up and run the project locally.
