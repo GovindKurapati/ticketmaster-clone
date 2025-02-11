@@ -1,6 +1,6 @@
 # Ticketmaster Clone
 
-This is the project for Database organisation CS-425-02, built using **FastAPI**, **SQLModel**, and **Alembic**. For now all the crud operations are developed for the project.
+Built using **FastAPI**, **SQLModel**, and **Alembic**.
 
 ![ticketmaster clone demo](./project-image.png "Project Image")
 
@@ -124,4 +124,4 @@ frontend/
 └── package.json             # Project configuration and dependencies
 ```
 
-Loom recording - [https://www.loom.com/share/e7563e01ea334653aec65a8f1791bb3d](Loom recording - https://www.loom.com/share/e7563e01ea334653aec65a8f1791bb3d)
+Loom recording - [https://www.loom.com/share/e7563e01ea334653aec65a8f1791bb3d](https://www.loom.com/share/e7563e01ea334653aec65a8f1791bb3d)
